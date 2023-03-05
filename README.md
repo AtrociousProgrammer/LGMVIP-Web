@@ -1,3 +1,3 @@
-# TODO LIST
+# LGMVIP-Web Tasks
 
-A todo-list made for Let'sGrowMore Virtual Internship Program.
+A repository of tasks completed for the Let'sGrowMore Virtual Internship Program.
